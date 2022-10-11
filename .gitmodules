@@ -1,0 +1,6 @@
+[submodule "comments-nuxt-Artur-Wozniak"]
+	path = comments-nuxt-Artur-Wozniak
+	url = https://github.com/natasher/comments-nuxt-Artur-Wozniak.git
+[submodule "comments-api-Artur-Wozniak"]
+	path = comments-api-Artur-Wozniak
+	url = https://github.com/natasher/comments-api-Artur-Wozniak.git
